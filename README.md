@@ -1,4 +1,4 @@
-# DevSentry AI Agent =
+# DevSentry AI Agent
 
 An intelligent code review and cloud security agent built for the AWS Builder Center Challenge. It flags insecure IAM policies, parses architecture files, and delivers constructive, friendly feedback powered by **Amazon Bedrock (Nova / Claude)**.
 
